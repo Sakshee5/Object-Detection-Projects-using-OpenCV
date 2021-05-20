@@ -1,1 +1,1 @@
-
+If you move around these books one by one infront of the camera, they will get detected and classified.
